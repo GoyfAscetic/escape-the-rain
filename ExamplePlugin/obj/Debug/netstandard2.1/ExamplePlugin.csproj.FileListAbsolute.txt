@@ -1,0 +1,11 @@
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.deps.json
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.pdb
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.AssemblyReference.cache
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfoInputs.cache
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfo.cs
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.sourcelink.json
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.pdb
