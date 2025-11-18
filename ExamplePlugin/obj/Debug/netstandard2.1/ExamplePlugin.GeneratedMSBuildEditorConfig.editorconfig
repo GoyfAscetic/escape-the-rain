@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = ExamplePlugin
-build_property.ProjectDir = C:\Users\aheid\dev\mod\RoR2\R2Boilerplate\ExamplePlugin\
+build_property.ProjectDir = C:\Users\aheid\dev\mod\RoR2\escape-the-rain\ExamplePlugin\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

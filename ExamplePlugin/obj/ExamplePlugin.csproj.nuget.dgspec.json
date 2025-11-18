@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\ExamplePlugin\\ExamplePlugin.csproj": {}
+    "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\ExamplePlugin\\ExamplePlugin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\ExamplePlugin\\ExamplePlugin.csproj": {
+    "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\ExamplePlugin\\ExamplePlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\ExamplePlugin\\ExamplePlugin.csproj",
+        "projectUniqueName": "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\ExamplePlugin\\ExamplePlugin.csproj",
         "projectName": "ExamplePlugin",
-        "projectPath": "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\ExamplePlugin\\ExamplePlugin.csproj",
+        "projectPath": "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\ExamplePlugin\\ExamplePlugin.csproj",
         "packagesPath": "C:\\Users\\aheid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\ExamplePlugin\\obj\\",
+        "outputPath": "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\ExamplePlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aheid\\dev\\mod\\RoR2\\R2Boilerplate\\NuGet.Config",
+          "C:\\Users\\aheid\\dev\\mod\\RoR2\\escape-the-rain\\NuGet.Config",
           "C:\\Users\\aheid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
